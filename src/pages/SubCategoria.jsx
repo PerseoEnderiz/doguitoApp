@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import { useParams } from `react-router-dom`
 import { ListPosts } from `../components/ListPosts`
+=======
+import { useParams } from "react-router-dom";
+import { ListPosts } from "../components/ListPosts"
+>>>>>>> fbfbef5 (Importacion listposts corregida)
 
 const SubCategoria = () => {
     const { subcategoria } = useParams();
