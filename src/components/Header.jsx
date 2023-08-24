@@ -1,4 +1,5 @@
-import "./"
+import image from "../assets/img/doguito.svg"
+import "../assets/css/componentes/header.css"
 
 
 const Header = () => {
